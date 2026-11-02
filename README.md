@@ -27,10 +27,8 @@ I specialize in converting operational challenges into safe, reliable, and scala
 ## Technology Exposure
 
 - ABB Robotics
-- FANUC Robotics
 - Siemens Automation
 - Rockwell Automation
-- Omron
 - Industrial Vision Systems
 - Industrial Networks
 
@@ -46,8 +44,6 @@ I specialize in converting operational challenges into safe, reliable, and scala
 
 - Robotic Destrapping Systems
 - Automated Coil Handling
-- AI in Manufacturing
-- Smart Factory Solutions
 - Machine Vision Applications
 - Engineering Standardization
 
